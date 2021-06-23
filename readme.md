@@ -1,5 +1,5 @@
 # Reverse!
-###implementation of "Reverse!" from 'Best of Creative Computing vol 1'
+### implementation of "Reverse!" from 'Best of Creative Computing vol 1'
 
 ### this version is written in TypeScript with PREACT.
 ### Web page formatting is through BootStrap V5
